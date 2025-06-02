@@ -26,6 +26,12 @@ To run the notebooks, you require Python v3 with packages:
 
 A Java runtime (JRE) installation, so that python's jpype1 can call it, and to run the AutoAnalyser from JIDT to generate Java code.
 
+## References:
+
+* [JIDT](https://github.com/jlizier/jidt) -- toolkit for information-theoretic measures
+* [IDTxl](https://github.com/pwollstadt/IDTxl) -- toolkit for effective network inference with information-theoretic measures
+* [assessing-linear-dependence](https://github.com/olivercliff/assessing-linear-dependence) -- toolkit for handling autocorrelations for linear measures
+
 ## Licences:
 
 This repo is distributed under GPLv3.
