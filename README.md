@@ -26,6 +26,12 @@ To run the notebooks, you require Python v3 with packages:
 
 A Java runtime (JRE) installation, so that python's jpype1 can call it, and to run the AutoAnalyser from JIDT to generate Java code.
 
+## Licences:
+
+This repo is distributed under GPLv3.
+
+It redistributes the jar file from my [JIDT](https://github.com/jlizier/jidt) project under GPLv3.
+
 ## Instances:
 
 This tutorial has been run at:
