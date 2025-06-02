@@ -41,6 +41,6 @@ It redistributes the jar file from my [JIDT](https://github.com/jlizier/jidt) pr
 ## Instances:
 
 This tutorial has been run at:
-* NetSci 2025
+* [NetSci 2025](https://netsci2025.github.io/)
 
 
