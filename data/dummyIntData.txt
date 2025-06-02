@@ -1,0 +1,6 @@
+% Dummy data to load into the autoanalyser
+1 0
+0 1
+0 0
+1 1
+
