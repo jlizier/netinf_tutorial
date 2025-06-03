@@ -30,6 +30,7 @@ A Java runtime (JRE) installation, so that python's jpype1 can call it, and to r
 
 * [JIDT](https://github.com/jlizier/jidt) -- toolkit for information-theoretic measures
 * [IDTxl](https://github.com/pwollstadt/IDTxl) -- toolkit for effective network inference with information-theoretic measures
+* [pyspi](https://github.com/DynamicsAndNeuralSystems/pyspi) -- toolkit for many pairwise statistical measures which could be used for functional connectivity
 * [assessing-linear-dependence](https://github.com/olivercliff/assessing-linear-dependence) -- toolkit for handling autocorrelations for linear measures
 
 ## Licences:
