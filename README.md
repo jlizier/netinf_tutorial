@@ -2,6 +2,8 @@
 
 Slides and code for my Network Inference from time-series data tutorial.
 
+(c) [Joseph T. Lizier](https://lizier.me/joseph/), 2025-.
+
 ## Slides
 
 See `202506-NetSci-NetworkInferenceTutorial.pdf`.
